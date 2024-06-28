@@ -50,8 +50,8 @@ MyGlamm is India's No. 1 D2C Makeup Brand for all premium makeup & beauty produc
               isBlog={false}
               title="HealthKart"
               description="HealthKart is a trusted house of brands with MuscleBlaze and HK Vitals being India's no. 1 sports nutrition and online vitamin brands. HealthKart also offers a comprehensive range of products dedicated to the vegan community, kids and women for their wellness and fitness needs"
-              ghLink="https://healthkart-zeta.vercel.app/"
-              demoLink="https://github.com/starydv7/HEALTHKART"
+              ghLink="https://github.com/starydv7/HEALTHKART"
+              demoLink="https://healthkart-zeta.vercel.app/"
             />
           </Col>
         </Row>
