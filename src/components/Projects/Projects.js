@@ -37,7 +37,7 @@ MyGlamm is India's No. 1 D2C Makeup Brand for all premium makeup & beauty produc
             <ProjectCard
               imgPath={hima}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Himalaya-USA"
               description="Himalaya offers a full line of clinically-studied herbal formulations, certified USDA organic Single herbs, and a full line of body care products. Integrating the principles of traditional medicine with modern science, Himalaya is a worldwide pioneer in the field of scientifically validated herbal healthcare"
               ghLink="https://github.com/starydv7/Himalayausa-clone"
               demoLink="https://himalayausa-clone-project.vercel.app/"
@@ -48,7 +48,7 @@ MyGlamm is India's No. 1 D2C Makeup Brand for all premium makeup & beauty produc
             <ProjectCard
               imgPath={health}
               isBlog={false}
-              title="Editor.io"
+              title="HealthKart"
               description="HealthKart is a trusted house of brands with MuscleBlaze and HK Vitals being India's no. 1 sports nutrition and online vitamin brands. HealthKart also offers a comprehensive range of products dedicated to the vegan community, kids and women for their wellness and fitness needs"
               ghLink="https://healthkart-zeta.vercel.app/"
               demoLink="https://github.com/starydv7/HEALTHKART"
